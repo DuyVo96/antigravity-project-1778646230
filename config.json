@@ -1,0 +1,42 @@
+{
+  "niche": "gym",
+  "paths": {
+    "output_dir": "./output",
+    "images_dir": "./pinterest_images",
+    "font_path": "./Montserrat-Bold.ttf",
+    "content_file": "./content.txt",
+    "links_file": "./links.txt",
+    "config_file": "./slides-config.json",
+    "schedule_file": "./schedule.json"
+  },
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "overlay_opacity": 0.52,
+    "glow_blur_radius": 30
+  },
+  "text": {
+    "default_size": 72,
+    "font_name": "Montserrat"
+  },
+  "download": {
+    "max_workers": 8,
+    "timeout_seconds": 30,
+    "retry_max_attempts": 3
+  },
+  "postiz": {
+    "privacy_level": "SELF_ONLY",
+    "duet": false,
+    "stitch": false,
+    "comment": true,
+    "autoAddMusic": "no",
+    "brand_content_toggle": false,
+    "brand_organic_toggle": false,
+    "content_posting_method": "UPLOAD"
+  },
+  "logging": {
+    "enabled": true,
+    "log_dir": "./logs",
+    "console_level": "info"
+  }
+}

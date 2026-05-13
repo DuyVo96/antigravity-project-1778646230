@@ -1,0 +1,45 @@
+[
+    {
+        "imagePath": "././pinterest_images/gym/image_001.jpg",
+        "lines": [
+            {
+                "text": "Devour the doubt before doubt devours your dreams",
+                "size": 72
+            }
+        ]
+    },
+    {
+        "imagePath": "././pinterest_images/gym/image_002.jpg",
+        "lines": [
+            {
+                "text": "Doubt gets swallowed whole",
+                "size": 72
+            },
+            {
+                "text": "Discipline hungers for more",
+                "size": 72
+            },
+            {
+                "text": "Queens feast on victory",
+                "size": 72
+            }
+        ]
+    },
+    {
+        "imagePath": "././pinterest_images/gym/image_003.jpg",
+        "lines": [
+            {
+                "text": "Stop being prey",
+                "size": 72
+            },
+            {
+                "text": "Start hunting",
+                "size": 72
+            },
+            {
+                "text": "Become her",
+                "size": 72
+            }
+        ]
+    }
+]

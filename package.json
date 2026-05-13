@@ -1,0 +1,18 @@
+{
+  "name": "slide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-slides.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.98",
+    "canvas": "^3.2.3",
+    "sharp": "^0.34.5"
+  }
+}
